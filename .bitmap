@@ -10,103 +10,103 @@
 
 {
     "banner": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/banner"
     },
     "body": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/body"
     },
     "button": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/button"
     },
     "button-panel": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/button-panel"
     },
     "container": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/container"
     },
     "envs/react-with-mui": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "sampleui/envs/react-with-mui"
     },
     "footer": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/footer"
     },
     "grid": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/grid"
     },
     "header": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/header"
     },
     "heading": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/heading"
     },
     "hero": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/hero"
     },
     "icon": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/icon"
     },
     "layout": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/layout"
     },
     "link": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/link"
     },
     "mui/theme/theme-provider": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/mui/theme/theme-provider"
     },
     "tooltip": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/tooltip"
     },
     "video": {
-        "scope": "",
+        "scope": "kumargauravin.sampleui",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "sampleui/video"
