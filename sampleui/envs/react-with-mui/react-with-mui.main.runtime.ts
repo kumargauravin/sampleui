@@ -48,7 +48,7 @@ export class ReactWithMuiMain {
             version: '^18.2.0',
             resolveFromEnv: true,
           },
-          '@kumargauravin/sampleui.mui.theme.theme-provider': {
+          '@kumargauravin/sampleui.theme-provider': {
             version: 'latest',
             resolveFromEnv: true,
           },
