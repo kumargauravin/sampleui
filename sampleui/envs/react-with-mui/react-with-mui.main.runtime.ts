@@ -41,11 +41,11 @@ export class ReactWithMuiMain {
             resolveFromEnv: true,
           },
           react: {
-            version: '^17.0.2',
+            version: '^18.2.0',
             resolveFromEnv: true,
           },
           'react-dom': {
-            version: '^17.0.2',
+            version: '^18.2.0',
             resolveFromEnv: true,
           },
           '@kumargauravin/sampleui.mui.theme.theme-provider': {

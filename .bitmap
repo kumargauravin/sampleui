@@ -11,247 +11,105 @@
 {
     "banner": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/banner",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/banner"
     },
     "body": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/body",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/body"
     },
     "button": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/button",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/button"
     },
     "button-panel": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/button-panel",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/button-panel"
     },
     "container": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/container",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/container"
     },
     "envs/react-with-mui": {
         "scope": "",
-        "version": "",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/envs/react-with-mui",
-        "config": {
-            "teambit.component/deprecation": {
-                "deprecate": true,
-                "newId": {
-                    "name": "envs/react-mui",
-                    "scope": "learnbit-react.material-ui"
-                }
-            },
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.envs/envs": {},
-            "teambit.pipelines/builder": {},
-            "teambit.harmony/aspect": {},
-            "teambit.compilation/compiler": {},
-            "teambit.harmony/application": {},
-            "teambit.preview/preview": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "learn-bit-react.ui-library-wrappers",
-                    "name": "mui/plugins/react-with-mui",
-                    "version": "0.0.9"
-                }
-            }
-        }
+        "rootDir": "sampleui/envs/react-with-mui"
     },
     "footer": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/footer",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/footer"
     },
     "grid": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/grid",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/grid"
     },
     "header": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/header",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/header"
     },
     "heading": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/heading",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/heading"
     },
     "hero": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/hero",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/hero"
     },
     "icon": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/icon",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/icon"
     },
     "layout": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/layout",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/layout"
     },
     "link": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/link",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/link"
     },
     "mui/theme/theme-provider": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/mui/theme/theme-provider",
-        "config": {
-            "teambit.component/deprecation": {
-                "deprecate": true,
-                "newId": {
-                    "name": "theme/theme-provider",
-                    "scope": "learnbit-react.material-ui"
-                }
-            },
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.envs/envs": {},
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.pipelines/builder": {},
-            "teambit.harmony/application": {},
-            "teambit.preview/preview": {},
-            "teambit.react/react": {},
-            "teambit.compilation/compiler": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "learn-bit-react.ui-library-wrappers",
-                    "name": "mui/theme/theme-provider",
-                    "version": "0.0.6"
-                }
-            }
-        }
+        "rootDir": "sampleui/mui/theme/theme-provider"
     },
     "tooltip": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/tooltip",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/tooltip"
     },
     "video": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "sampleui/ui/video",
-        "config": {
-            "kumargauravin.sampleui/envs/react-with-mui": {},
-            "teambit.envs/envs": {
-                "env": "kumargauravin.sampleui/envs/react-with-mui"
-            }
-        }
+        "rootDir": "sampleui/video"
     },
     "$schema-version": "15.0.0"
 }
